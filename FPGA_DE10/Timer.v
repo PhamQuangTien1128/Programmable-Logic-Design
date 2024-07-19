@@ -1,4 +1,4 @@
-module test(output reg [6:0] hex0, 
+module Timer(output reg [6:0] hex0, 
             output reg [6:0] hex1, 
             output reg [6:0] hex2, 
             output reg [6:0] hex3, 
